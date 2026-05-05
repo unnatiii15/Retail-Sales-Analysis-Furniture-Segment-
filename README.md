@@ -55,7 +55,7 @@ The project also includes a **Power BI dashboard** to present insights in a clea
 
 ### 🔹 4. Visualization (Power BI Dashboard)
 
-![Dashboard](images/dashboard.png)
+![Dashboard](dashboard.png)
 
 ---
 
