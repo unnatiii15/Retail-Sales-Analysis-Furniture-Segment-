@@ -55,7 +55,7 @@ The project also includes a **Power BI dashboard** to present insights in a clea
 
 ### 🔹 4. Visualization (Power BI Dashboard)
 
-![Dashboard](images/r_dashboard.png)
+![Dashboard](images/dashboard.png)
 
 ---
 
@@ -111,64 +111,6 @@ This project demonstrates how data can be used to:
 * Hyperparameter tuning for improved model performance
 * Customer segmentation analysis
 * Deployment of dashboard with real-time data
-
----
-
-## 🔗 Author
-
-**Unnati Bhanushali**
-GitHub: https://github.com/unnatiii15
-
----
-
-### 💸 Discount vs Profit
-
-* Moderate negative correlation (**-0.48**) between discount and profit
-* Higher discounts reduce overall profitability
-
----
-
-### 🪑 Subcategory Analysis
-
-* Furnishings (~45%) and Chairs (~29%) dominate transaction volume
-* Key drivers of product demand
-
----
-
-### 📊 Sales Behavior
-
-* Sales distribution shows variability across months and product types
-* Useful for demand forecasting and stock planning
-
----
-
-## 🛠️ Tech Stack
-
-* Python (Pandas, NumPy)
-* Data Visualization (Matplotlib, Seaborn)
-* Jupyter Notebook
-
----
-
-## 📊 Visualizations
-
-*(Add plots here later)*
-
----
-
-## 📈 Future Improvements
-
-* Add Power BI dashboard
-* Expand dataset beyond furniture category
-* Perform deeper profitability analysis
-
----
-
-## 💡 Key Learning
-
-* Understanding seasonal demand patterns
-* Evaluating pricing impact on profit
-* Translating data into business insights
 
 ---
 
